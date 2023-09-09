@@ -1,0 +1,9 @@
+.not-found{
+    color: #20c997;
+    font-size: 60px;
+}
+.space{
+    height: 10vh;
+    width: 100%;
+    background-color: transparent;
+}

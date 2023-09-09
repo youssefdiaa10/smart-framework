@@ -1,0 +1,14 @@
+.smartFramework-bars{
+    height: 5px;
+    width: 90px;
+    background-color: white;
+}
+.smartFramework-component{
+    font-size: 40px;
+}
+.smartFramework-container{
+    padding: 60px 0;
+    background-color: #20c997;
+}
+
+

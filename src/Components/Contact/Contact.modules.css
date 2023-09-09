@@ -1,0 +1,29 @@
+.contact-bars{
+    height: 5px;
+    width: 90px;
+    background-color: #2c3e50;
+}
+.contact-component{
+    font-size: 40px;
+    color: #2c3e50;
+}
+.contact-container{
+    padding: 50px 0;
+}
+.contact-form-inputs{
+    margin: 30px 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 0.5px solid gray;
+    padding-bottom: 15px;
+    outline: none;
+}
+.contact-send-message{
+    background-color: #02c087;
+    border: none;
+}
+#displayCover{
+    z-index: 99999999999;
+}
+

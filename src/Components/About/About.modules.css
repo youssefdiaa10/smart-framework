@@ -1,0 +1,12 @@
+.about-bars{
+    height: 5px;
+    width: 90px;
+    background-color: white;
+}
+.about-component{
+    font-size: 40px;
+}
+.about-container{
+    padding: 200px 0;
+    background-color: #20c997;
+}

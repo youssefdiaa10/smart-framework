@@ -1,0 +1,20 @@
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: #2c3e50;
+}
+.copy-right{
+    background-color: #1a252f;
+}
+.footer-details{
+    padding: 100px 0;
+}
+.icon-container div{
+    border: 1px solid white;
+}
+.icon-container div i{
+    color: white;
+    font-size: 13px;
+}
