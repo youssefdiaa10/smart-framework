@@ -21,7 +21,7 @@ export default class SmartFramework extends Component {
                   <div className="smartFramework-bars mx-2"></div>
             </div>
 
-           <div className="">
+           <div className="mt-2">
             <p className="text-light text-center">Graphic Artist - Web Designer - Illustrator</p>
            </div>
         </div>
